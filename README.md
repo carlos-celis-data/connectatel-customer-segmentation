@@ -45,5 +45,16 @@ Python · Pandas · NumPy · Seaborn · Matplotlib · Jupyter Notebook
 ```
 ├── connectatel_customer_analysis.ipynb   # Full analysis notebook
 ├── images/                                # Chart exports
+│   ├── age_distribution_by_plan.png
+│   ├── message_count_distribution.png
+│   ├── call_count_distribution.png
+│   ├── call_minutes_distribution.png
+│   ├── boxplot_01.png
+│   ├── boxplot_02.png
+│   ├── boxplot_03.png
+│   ├── boxplot_04.png
+│   ├── usage_group_distribution.png
+│   ├── age_group_distribution.png
+│   └── age_vs_usage_group.png
 └── README.md
 ```
